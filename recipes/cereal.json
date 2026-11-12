@@ -1,0 +1,10 @@
+{
+  "name": "Cereal Box",
+  "box_length_mm": 400,
+  "box_width_mm": 300,
+  "box_height_mm": 250,
+  "box_weight_kg": 12.5,
+  "columns": 3,
+  "rows": 3,
+  "layers": 5
+}
